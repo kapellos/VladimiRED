@@ -22,6 +22,7 @@ Most importantly you will need a solid shellcode encryption/download method whic
 # Credits
 - Charles Hamilton ([@MrUn1k0d3r](https://twitter.com/MrUn1k0d3r))
 - Caue B [caueb](https://github.com/caueb)
-- Technique originally published by [Security Joes](https://www.securityjoes.com/post/process-mockingjay-echoing-rwx-in-userland-to-achieve-code-execution) that takes advantage of RWX sections in DLLs to allocate and execute code.  
+- Technique originally published by [Security Joes](https://www.securityjoes.com/post/process-mockingjay-echoing-rwx-in-userland-to-achieve-code-execution) that takes advantage of RWX sections in DLLs to allocate and execute code.
+- https://www.tiktok.com/@vladimir_ncl for the inspiration. 
 
 
