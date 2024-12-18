@@ -1,0 +1,7 @@
+C:\Tools\VladimiRED\VladimiRED\bin\x64\Release\VladimiRED.pdb
+C:\Tools\VladimiRED\VladimiRED\obj\x64\Release\VladimiRED.csproj.AssemblyReference.cache
+C:\Tools\VladimiRED\VladimiRED\obj\x64\Release\VladimiRED.csproj.CoreCompileInputs.cache
+C:\Tools\VladimiRED\VladimiRED\obj\x64\Release\VladimiRED.pdb
+C:\Tools\VladimiRED\VladimiRED\bin\x64\Release\VladimiRED.dll.config
+C:\Tools\VladimiRED\VladimiRED\bin\x64\Release\VladimiRED.dll
+C:\Tools\VladimiRED\VladimiRED\obj\x64\Release\VladimiRED.dll
