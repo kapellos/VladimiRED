@@ -2,7 +2,7 @@
 
 VladimiRED (you expect to get one thing and you end up with something else :satisfied:) is a C# port of Mockingjay injection technique (https://github.com/caueb/Mockingjay) to be used with AppDomainManager Injection Method.
 
-The produced dll injects shellcode into already existing RWE regions via Marshaling avoiding using pinvoke related injection calls.
+The produced dll injects shellcode into already existing RWX regions via Marshaling avoiding using pinvoke related injection calls.
 
 ![image](https://github.com/kapellos/VladimiRED/blob/main/VladimiRED.png)
 
@@ -23,6 +23,6 @@ Most importantly you will need a solid shellcode encryption/download method whic
 - Charles Hamilton ([@MrUn1k0d3r](https://twitter.com/MrUn1k0d3r))
 - Caue B [caueb](https://github.com/caueb)
 - Technique originally published by [Security Joes](https://www.securityjoes.com/post/process-mockingjay-echoing-rwx-in-userland-to-achieve-code-execution) that takes advantage of RWX sections in DLLs to allocate and execute code.
-- https://www.tiktok.com/@vladimir_ncl for the inspiration. 
+- https://www.tiktok.com/@vladimir_ncl for the laughs given. 
 
 
