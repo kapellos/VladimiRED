@@ -5,7 +5,7 @@ The produced dll injects shellcode into already existing RWE regions via Marshal
 
 # Usage
 You need a 64bit AppDomainManager Microsoft Signed application to run this (unless you revert this to a standard console application). 
-I suggest the excellent resources form Mr. Mr-Un1k0d3r
+I suggest the excellent resources from Mr. Mr-Un1k0d3r
 
 https://github.com/Mr-Un1k0d3r/.NetConfigLoader
 https://raw.githubusercontent.com/Mr-Un1k0d3r/.NetConfigLoader/main/signed.txt
