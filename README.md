@@ -15,7 +15,7 @@ I suggest the excellent resources from Mr. Mr-Un1k0d3r
 
 2)https://raw.githubusercontent.com/Mr-Un1k0d3r/.NetConfigLoader/main/signed.txt
 
-More importantly you will need a solid shellcode encryption/download method which I do not provide here if you really need to evade EDRs.
+Most importantly you will need a solid shellcode encryption/download method which I do not provide here if you really need to evade EDRs.
 
 # Credits
 - Charles Hamilton ([@MrUn1k0d3r](https://twitter.com/MrUn1k0d3r))
