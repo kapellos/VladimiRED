@@ -15,7 +15,7 @@ I suggest the excellent resources by Mr. Mr-Un1k0d3r:
 
 2)https://raw.githubusercontent.com/Mr-Un1k0d3r/.NetConfigLoader/main/signed.txt
 
-Also you will need some other "vulnerable" dll since the original, which is also used in this project, has limited shellcode space for a CS beacon. You can find them using the python script ([https://github.com/caueb/Mockingjay](https://github.com/caueb/Mockingjay/blob/main/rwx_finder.py)) in everyday workstations :laughing:.
+Also you will need some other "vulnerable" dll since the original, which is also used in this project, has limited shellcode space for a CS beacon. You can find them using the python script ([https://github.com/caueb/Mockingjay](https://github.com/caueb/Mockingjay/blob/main/rwx_finder.py)) in everyday workstations :smirk:.
 
 Most importantly you will need a solid shellcode encryption/download method which I do not provide here if you really need to evade EDRs.
 
