@@ -12,12 +12,13 @@ You need a 64bit AppDomainManager Microsoft Signed application to run this (unle
 I suggest the excellent resources from Mr. Mr-Un1k0d3r
 
 1)https://github.com/Mr-Un1k0d3r/.NetConfigLoader
+
 2)https://raw.githubusercontent.com/Mr-Un1k0d3r/.NetConfigLoader/main/signed.txt
 
-More importantly you will need a solid shellcode encryption/download method which I do not provide here.
+More importantly you will need a solid shellcode encryption/download method which I do not provide here if you really need to evade EDRs.
 
 # Credits
-Mr.Un1k0d3r
-caueb
+- Charles Hamilton ([@MrUn1k0d3r](https://twitter.com/MrUn1k0d3r))
+- Caue B [caueb](https://github.com/caueb)
 
 
