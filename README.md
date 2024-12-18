@@ -10,9 +10,10 @@ I suggest the excellent resources from Mr. Mr-Un1k0d3r
 https://github.com/Mr-Un1k0d3r/.NetConfigLoader
 https://raw.githubusercontent.com/Mr-Un1k0d3r/.NetConfigLoader/main/signed.txt
 
-More importantly you will need a solid shellcode encryption/download method which I do not provide here for obvious reasons.
+More importantly you will need a solid shellcode encryption/download method which I do not provide here.
 
 # Credits
 Mr.Un1k0d3r
 caueb
+
 
