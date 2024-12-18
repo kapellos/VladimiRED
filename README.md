@@ -1,6 +1,6 @@
 # VladimiRED
 
-VladimiRED (you expect to get one thing and you end up with something else ;-)) is a C# port of Mockingjay injection technique (https://github.com/caueb/Mockingjay) to be used with AppDomainManager Injection Method.
+VladimiRED (you expect to get one thing and you end up with something else :satisfied:) is a C# port of Mockingjay injection technique (https://github.com/caueb/Mockingjay) to be used with AppDomainManager Injection Method.
 
 The produced dll injects shellcode into already existing RWE regions via Marshaling avoiding using pinvoke related injection calls.
 
@@ -15,7 +15,7 @@ I suggest the excellent resources by Mr. Mr-Un1k0d3r:
 
 2)https://raw.githubusercontent.com/Mr-Un1k0d3r/.NetConfigLoader/main/signed.txt
 
-Also you will need some other "vulnerable" dll since the original, which is also used in this project, has limited shellcode space for a CS beacon. You can find them using the python script ([https://github.com/caueb/Mockingjay](https://github.com/caueb/Mockingjay/blob/main/rwx_finder.py)) in everyday computers ;-).
+Also you will need some other "vulnerable" dll since the original, which is also used in this project, has limited shellcode space for a CS beacon. You can find them using the python script ([https://github.com/caueb/Mockingjay](https://github.com/caueb/Mockingjay/blob/main/rwx_finder.py)) in everyday workstations :laughing:.
 
 Most importantly you will need a solid shellcode encryption/download method which I do not provide here if you really need to evade EDRs.
 
